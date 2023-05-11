@@ -1,5 +1,7 @@
 ## GULP-GAP interface 
 version 2.0.2
+This is NOT the usage version. If you want the detail and the geunine scripts please contact me.
+tonggih.kang.18@ucl.ac.uk
 
 ✅ Aug 2022: v1.0.0 preparing trainig data using GULP<br>
 ✅ Aug 2022: v1.1.0 GAP training<br>
